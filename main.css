@@ -171,9 +171,11 @@
     display: inline-block;
   }
 
-  .profile-pic {
+.profile-pic {
     border-radius: 50%;
     position: absolute;
+    height: 550px;
+    width: 550px;
     top: 30%;
     left: 50%;
     transform: translate(-50%, -20%);
